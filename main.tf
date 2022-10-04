@@ -27,7 +27,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg1" {
-name="ResourceGroup100"
+name="Rg900"
 location="East US"
 
 }
